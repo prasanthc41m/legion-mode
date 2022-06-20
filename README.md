@@ -1,12 +1,12 @@
 # Lenovo Legion Mode
 
-![](https://i.ibb.co/pjmXgZb/ideapadm.png)
+![]()
 
 At the moment the extension only provides an easy and user-friendly way to toggle the battery conservation mode available on Levono Legion and Ideapad laptops and visually get its current state.
 
 # Installation
 
-Manually download or clone the repository under ~/.local/share/gnome-shell/extensions/
+Manually download or clone the repository under ~/.local/share/gnome-shell/extensions/legion-mode
 
 **Test for Lenovo Legion 5 (15ARH05) 
 
