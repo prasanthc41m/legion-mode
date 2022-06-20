@@ -1,0 +1,8 @@
+{
+  "description": "Chargning mode indicator for laptops. Allows to switch the charging mode from conservative or healthy to normal mode. Indicates also which mode you are using now. Works on Lenovo Legion 5, Slim 7.\n\nPlease Report Problems or issues on Gitlab at:\n\nhttps://github.com/prasanthc41m/lenovo-mode",
+  "name": "Legion mode",
+  "shell-version": ["3.36", "38", "40", "41", "42"],
+  "url": "https://github.com/prasanthc41m/lenovo-mode",
+  "uuid": "legion-mode@prasanthk.com",
+  "version": 4
+}
